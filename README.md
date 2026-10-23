@@ -1,5 +1,5 @@
 # Mini-project-
-Retail Sales Data Analytics and Business Intelligence Dashboard
+** Retail Sales Data Analytics and Business Intelligence Dashboard **
 1.	Imported the dataset into Excel power query
 i)	Open excel
 ii)	Imported the CSV (Go to Data → Get Data → From File → From Text/CSV.)

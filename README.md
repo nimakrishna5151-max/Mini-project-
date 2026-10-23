@@ -11,6 +11,7 @@ i)	Selected the Item column
 ii)	Go to Transform → Replace Values
 iii)	In the dialog box, enter: - Value to Find: Leave it empty. Replace With: Unknown
 iv)	OK
+
  4.Standardize the text columns for category, item, payment method, location
 i)	Transform>format>trim
 5.Handle missing value in price per unit 

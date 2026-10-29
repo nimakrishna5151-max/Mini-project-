@@ -36,10 +36,9 @@ ii)	If(total spent) =null then if  (price cleaned) <> null and (quantity cleaned
  11. selected the transaction date column and right clicked  on it use locale given the data type as date and locale as English India
 
                  Power BI
-
-      1.	Loaded the data. I imported the retail sales table into Power BI Desktop and reviewed the columns: Transaction ID, Customer ID, Transaction Date, Category, Item, Location, Payment Method, Quantity, Price per unit, Discount applied, and Total spent.
+     1.	Loaded the data. I imported the retail sales table into Power BI Desktop and reviewed the columns: Transaction ID, Customer ID, Transaction Date, Category, Item, Location, Payment Method, Quantity, Price per unit, Discount applied, and Total spent.
          
-    2.	Prepared the data. I checked data types, removed duplicates, and handled blank values in Power Query.
+2.	Prepared the data. I checked data types, removed duplicates, and handled blank values in Power Query.
     
 3.	Created DAX measures. I built measures for Total Sales, Total Transactions, Average Spending, Total Quantity sold, and a Sales target for the gauge.
    
